@@ -1,88 +1,93 @@
 
+---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FACC15&width=435&lines=Hi+I'm+Temu-Lala+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;AI+Explorer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=Hi,+I'm+Temesgen+%F0%9F%91%8B;aka+Temu-Lala+%F0%9F%A7%9C%E2%99%82%EF%B8%8F;Future-Ready+Engineer+from+2030;AI+Builder+%E2%9A%99%EF%B8%8F;Tech+for+Impact+%F0%9F%9A%80;UX+is+my+superpower+%F0%9F%A7%AA" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20in-Ethiopia-ffb703?style=for-the-badge&logo=googleearth" />
-  <img src="https://img.shields.io/badge/AI%20Lover-%F0%9F%A4%96-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-%F0%9F%94%97-4ade80?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20in-Ethiopia-ffc800?style=for-the-badge&logo=googleearth&logoColor=black" />
+  <img src="https://img.shields.io/badge/Time-Traveler%20Dev-0ff?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-%F0%9F%92%9A-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coding%20%3D%20Magic-%E2%9C%A8-ff69b4?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <b>💻 Full-Stack Developer | 🤖 AI Innovator | 🎨 UX Thinker</b><br>
-  <i>I create meaningful digital experiences using modern technologies & AI.</i>
-</p>
-
----
-
-## 🚀 About Me
-
-* 🔭 I love building impactful full-stack apps and AI-powered tools.
-* 💡 Founder of **LALA AI** – Your smart assistant that chats, takes notes, and generates code locally.
-* 🌍 Based in Ethiopia, solving real-life problems with tech.
-* 🛠 Tech Stack: `Next.js`, `React`, `React Native`, `Django`, `Python`, `Node.js`, `PostgreSQL`, `Tailwind`, and more.
-* 🤖 Exploring LLMs, Deep Learning, NLP, and Transformers.
-* 🎯 Mission: **Empower communities with accessible and intelligent software.**
-
----
-
-## 🧠 Featured Projects
-
-| Project                                        | Description                                                           |
-| ---------------------------------------------- | --------------------------------------------------------------------- |
-| 🌐 [LALA Tools](https://lalatools.vercel.app/) | 50+ utility tools built with simplicity and elegance                  |
-| 🤖 LALA AI                                     | Chat, code, and note using your own local model – no internet needed! |
-| 🧑‍🎓 UniConnect Ethiopia                      | A hybrid of LinkedIn and Facebook for Ethiopian students              |
-| 🖼️ Ethiopian Sign Language Translator         | AI-based translation tool for Ethiopian sign language                 |
-
----
-
-## 🖥️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,py,django,nodejs,postgres,tailwind,figma,vscode,github" />
+  <b>💻 Full-Stack Engineer | 🤖 AI Creator | 🎨 Futuristic UI/UX Enthusiast</b><br>
+  <i>I build the tech of tomorrow – intuitive, beautiful, and human-centered.</i>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🌌 About Me
+
+* 🔭 Full-stack & AI developer building next-gen tools with a passion for meaningful design.
+* 🧠 Founder of **LALA AI** – A private assistant from the future: chat, think, and code locally.
+* 🛸 On a mission to bring smart solutions to real-world problems in Ethiopia and beyond.
+* 🧰 Fluent in: `Next.js`, `React`, `React Native`, `TypeScript`, `Python`, `Django`, `Node.js`, `PostgreSQL`, `Tailwind`, and more.
+* 🤖 Exploring frontier tech: LLMs, Generative AI, Computer Vision, and NLP.
+* 🎯 Motto: **"Don't just write code. Create experiences."**
+
+---
+
+## 🚀 Featured Projects from the Future
+
+| Project                                            | Description                                                                       |
+| -------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 🌐 [**LALA Tools**](https://lalatools.vercel.app/) | A futuristic Swiss Army knife – 50+ tools, elegantly designed.                    |
+| 🤖 **LALA AI**                                     | Offline AI assistant that chats, thinks, and generates – powered by local models. |
+| 🧑‍🎓 **UniConnect Ethiopia**                      | Empowering students and alumni with a hybrid social-academic platform.            |
+| 🖼️ **Sign Language AI**                           | Breaking barriers for the hearing-impaired using AI & computer vision.            |
+
+---
+
+## 🧬 Tech Stack & Design Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Temu-Lala&show_icons=true&theme=radical&hide_title=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Temu-Lala&theme=radical" height="165" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,py,django,nodejs,postgres,tailwind,figma,vscode,github,redux" />
+</p>
+
+> I fuse tech stacks like a DJ mixing futuristic beats – efficiency, power, and elegance.
+
+---
+
+## 📈 GitHub Timeline
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Temu-Lala&show_icons=true&theme=tokyonight&hide_title=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Temu-Lala&theme=tokyonight" height="165" />
 </p>
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Connect with the Future Me
 
 <p align="center">
-  <a href="https://temesgen-debebe.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://t.me/TD_lala" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/temesgen-debebe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Temu-Lala" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://temesgen-debebe.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2025%20Vision-black?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://t.me/TD_lala" target="_blank"><img src="https://img.shields.io/badge/Telegram-Cyber%20Connect-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/temesgen-debebe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect%20to%20Future-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Temu-Lala" target="_blank"><img src="https://img.shields.io/badge/GitHub-Stargate%20to%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🎨 Design Philosophy
+## 🛸 UX Philosophy from 2030
 
-> *"Great UX is invisible. Amazing UX is unforgettable."*
+> *“Interfaces shouldn’t just be usable – they should be delightful, intuitive, and almost telepathic.”*
 
-I love creating responsive, elegant interfaces using **TailwindCSS**, **Material UI**, and **Framer Motion**, blending simplicity with power.
+* I craft interfaces powered by **TailwindCSS**, **Material UI**, and **Framer Motion** for buttery-smooth experiences.
 
 ---
 
-## 🎉 Fun Fact
+## 🌠 Fun Fact
 
-When I code, I talk to myself more than I talk to people 😄 — and sometimes the computer listens!
+Even in 2030, I still get excited when the dark mode toggle works perfectly.
+(Also, I talk to AI like it's my co-pilot. Spoiler: it listens.)
 
 ---
 
 <p align="center">
-  💖 If you like my work, give a ⭐ on projects – it's free motivation!
+  ✨ If you like my work, give it a ⭐ – it's free, but it fuels future innovations!
 </p>
 
 ---
