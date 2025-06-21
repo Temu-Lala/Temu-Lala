@@ -1,6 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hello,+I’m+Temesgen+👋;aka+Temu-Lala+🧠🚀;Futuristic+Full-Stack+Engineer;AI+Craftsman+From+Tomorrow;UX+Wizard+🔮;Making+Magic+with+Code+💻✨" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi,%20I'm%20Temesgen-%F0%9F%91%8B-blue?style=for-the-badge&labelColor=000&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Future%20Engineer%202025-🧠🚀-purple?style=for-the-badge&labelColor=111" />
+  <img src="https://img.shields.io/badge/AI%20Alchemist-🧪-gradient?style=for-the-badge&labelColor=222" />
+</p>
+
 
 <p align="center">
   <img src="https://media.tenor.com/YGgErtOb9hUAAAAC/coding.gif" width="200" />
