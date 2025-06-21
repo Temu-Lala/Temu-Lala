@@ -2,7 +2,7 @@
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=Hi,+I'm+Temesgen+%F0%9F%91%8B;aka+Temu-Lala+%F0%9F%A7%9C%E2%99%82%EF%B8%8F;Future-Ready+Engineer+from+2030;AI+Builder+%E2%9A%99%EF%B8%8F;Tech+for+Impact+%F0%9F%9A%80;UX+is+my+superpower+%F0%9F%A7%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=Hi,+I'm+Temesgen+%F0%9F%91%8B;aka+Temu-Lala+%F0%9F%A7%9C%E2%99%82%EF%B8%8F;Future-Ready+Engineer+from+2022;AI+Builder+%E2%9A%99%EF%B8%8F;Tech+for+Impact+%F0%9F%9A%80;UX+is+my+superpower+%F0%9F%A7%AA" alt="Typing SVG" />
 </h1>
 
 <p align="center">
