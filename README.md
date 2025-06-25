@@ -17,6 +17,11 @@
   <img src="https://img.shields.io/badge/Coding%20%3D%20Magic-✨-ff69b4?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
 <p align="center"><strong>⚙️ Full-Stack Developer | 🤖 AI Alchemist | 🧬 Digital Architect | 🪄 UX Designer</strong></p>
 <p align="center"><i>Engineering the Future — One Line of Code at a Time</i></p>
 
