@@ -18,8 +18,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Web Designer GIF" />
 </p>
+
 
 
 <p align="center"><strong>⚙️ Full-Stack Developer | 🤖 AI Alchemist | 🧬 Digital Architect | 🪄 UX Designer</strong></p>
