@@ -60,7 +60,7 @@
 ## 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,py,django,nodejs,postgres,tailwind,figma,vscode,github,redux,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactivex,ts,js,py,django,fastapi,nodejs,postgres,mysql,redis,tailwind,redux,golang,docker,github,git,figma,vscode,vercel,linux" />
 </p>
 
 <p align="center"><i>💿 I mix code like a synthwave DJ – smooth, modular, and future-ready.</i></p>
